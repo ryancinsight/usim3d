@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - Acoustic standing wave with a frequency sweeping in a microfluidic system of parallel channels
+AU  - de Hemptinne, A.
+AU  - Misko, V.R.
+AU  - Gelin, P.
+AU  - De Malsche, W.
+JO  - Chemical Engineering and Processing - Process Intensification
+VL  - 194
+SP  - 109607
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0255-2701
+DO  - https://doi.org/10.1016/j.cep.2023.109607
+UR  - https://www.sciencedirect.com/science/article/pii/S0255270123003446
+KW  - Acoustophoretic focusability
+KW  - Parallelization
+KW  - Frequency sweeping
+AB  - In acoustofluidics, particles driven by fluid flows in microchannels are subject to acoustic waves, which are transmitted through the channel walls. Increasing the flow rate, one of the major challenges in microfluidic operation, can be achieved by parallelization of channels. In the present paper, inducing acoustic waves in devices with 4 and 16 parallel channels in silicon-based chip is studied. The resonance quality was evaluated by acoustic focusing of particles in the channels. First, the quality of resonance was measured in every channel separately as a function of the wave frequency. Second, a methodology with a sweeping of the frequency with time was explored to compensate for the variation of the optimal frequency between the channels. As a result, for a chip with a single channel, the sweeping is less efficient because of the lower energy transfer due to a non-optimal acoustic wave frequency. However, this developed method allowed simultaneous resonance in all the channels, which is not possible with application of a single frequency.
+ER  - 
